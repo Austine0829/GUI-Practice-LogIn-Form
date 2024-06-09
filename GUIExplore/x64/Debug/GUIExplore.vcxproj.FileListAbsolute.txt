@@ -1,0 +1,3 @@
+C:\Users\Miel\source\repos\GUIExplore\GUIExplore\x64\Debug\GUIExplore.vcxproj.AssemblyReference.cache
+C:\Users\Miel\source\repos\GUIExplore\GUIExplore\x64\Debug\GUIExplore.MyForm.resources
+C:\Users\Miel\source\repos\GUIExplore\GUIExplore\x64\Debug\GUIExplore.vcxproj.GenerateResource.cache
