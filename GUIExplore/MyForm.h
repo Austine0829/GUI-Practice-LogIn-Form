@@ -420,7 +420,7 @@ private: System::Void btnTerms_CheckedChanged(System::Object^ sender, System::Ev
 }
 
 private: System::Void btnSignIn_Click(System::Object^ sender, System::EventArgs^ e) {
-	if (txtUsername->Text == "gigets9282" && txtPassword->Text == "babybumbum08292002")
+	if (txtUsername->Text == "admin" && txtPassword->Text == "admin")
 	{
 		MessageBox::Show("Welcome");
 	}
